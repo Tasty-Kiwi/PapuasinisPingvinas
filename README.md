@@ -1,5 +1,6 @@
 ### Hi there! 👋
 [![Website](https://img.shields.io/website?label=notgentoo.ml&style=for-the-badge&url=https%3A%2F%2Fnotgentoo.ml)](https://notgentoo.ml)
+[![Youtube](https://img.shields.io/badge/Subscribe%20to-Notgentoo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
 <!--
 ### Languages and Tools:
 
@@ -25,6 +26,3 @@
   <summary>My GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PapuasinisPingvinas&show_icons=true&hide_border=true" />
 </details>
-
-[website]: https://notgentoo.ml
-[youtube]: https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA
