@@ -20,7 +20,7 @@
 
 - [How to get older Windows 10 versions!](https://youtu.be/Mrk84NSVbzQ)
 
-➡️ [more videos...](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
+➡️ [More videos...](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
 
 <details>
   <summary>My GitHub Stats</summary>
