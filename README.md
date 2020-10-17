@@ -1,8 +1,11 @@
 ### Hi there 👋
+Visit me on [Youtube](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
 
-Here are some ideas to get you started:
+[![PapuasinisPingvinas's github stats](https://github-readme-stats.vercel.app/api?username=PapuasinisPingvinas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
