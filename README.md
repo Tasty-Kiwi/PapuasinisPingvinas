@@ -20,7 +20,7 @@
 
 - [How to get older Windows 10 versions!](https://youtu.be/Mrk84NSVbzQ)
 
--[How to make a website for free with Firebase and Freenom](https://www.youtube.com/watch?v=M9628rXN7mA)
+- [How to make a website for free with Firebase and Freenom](https://www.youtube.com/watch?v=M9628rXN7mA)
 
 ➡️ [More videos...](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
 
