@@ -22,7 +22,7 @@
 
 - [How to make a website for free with Firebase and Freenom](https://www.youtube.com/watch?v=M9628rXN7mA)
 
-➡️ [More videos...](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA)
+➡️ [More videos...](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA/videos)
 
 <details>
   <summary>My GitHub Stats</summary>
