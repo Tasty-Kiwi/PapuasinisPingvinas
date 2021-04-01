@@ -10,12 +10,13 @@
 * C++
 * Lua
 
-# Tools:
+### Tools:
 * Visual Studio Code
 * Visual Studio
 * PyCharm
 * Sublime Text
 * VIM
+
 ---
 
 ### 📺 Latest YouTube Videos
