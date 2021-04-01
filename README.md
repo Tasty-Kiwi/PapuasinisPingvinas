@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=tastykiwi.tk&style=for-the-badge&url=https%3A%2F%2Fnotgentoo.ml)](https://notgentoo.ml)
 
 ### Languages:
-* JavaScript
+* JavaScript and its derivatives
 * PowerShell
 * Python
 * C#
