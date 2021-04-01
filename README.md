@@ -15,6 +15,10 @@
 * Sublime Text
 * VIM
 
+## More info
+* 🛠️ I’m currently working on an indie game.
+* 📖 I’m currently learning more programming languages.
+* 🐣 I wrote my first line of code when I was 10.
 <details>
   <summary>My GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tasty-Kiwi&show_icons=true&hide_border=true&theme=tokyonight" />
