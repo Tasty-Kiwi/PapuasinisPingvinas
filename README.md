@@ -6,7 +6,6 @@
 * PowerShell
 * Python
 * C#
-* C++
 * Lua
 
 ### Tools:
