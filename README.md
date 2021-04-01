@@ -1,6 +1,5 @@
 ### Hi there! 👋
-[![Website](https://img.shields.io/website?label=notgentoo.ml&style=for-the-badge&url=https%3A%2F%2Fnotgentoo.ml)](https://notgentoo.ml)
-[![Youtube](https://img.shields.io/badge/Subscribe%20to-Notgentoo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCq9U49Eyhwl9zl6yvaU7FiA?sub_confirmation=1)
+[![Website](https://img.shields.io/website?label=tastykiwi.tk&style=for-the-badge&url=https%3A%2F%2Fnotgentoo.ml)](https://notgentoo.ml)
 
 ### Languages:
 * JavaScript
