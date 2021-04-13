@@ -16,7 +16,7 @@
 * VIM
 
 ### More info
-* 🛠️ I’m currently working on an indie game.
+* 🌵 I’m currently working on nothing.
 * 📖 I’m currently learning more programming languages.
 * 🐣 I wrote my first line of code when I was 10.
 
