@@ -22,5 +22,5 @@
 
 <details>
   <summary>My GitHub Stats</summary>
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tasty-Kiwi&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tasty-kiwi&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
