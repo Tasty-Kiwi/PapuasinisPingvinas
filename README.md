@@ -1,1 +1,1 @@
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tasty-Kiwi&theme=tokyonight" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tasty-Kiwi&show_icons=true&hide_border=true&theme=tokyonight" />
